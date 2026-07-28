@@ -2,7 +2,7 @@
 
 A lightweight REST API built with **Rust** and **Axum**, backing a Student CRUD application. Handles create, read, update, and delete operations for student records, backed by PostgreSQL.
 
-Pairs with the frontend repo: [`crud-app/student-frontend`](https://github.com/crud-app/student-frontend) — update this link once you add it.
+Pairs with the frontend repo: [`crud-app/student-frontend`](https://github.com/crud-app/student-frontend) 
 
 ## Tech Stack
 
